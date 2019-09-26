@@ -1,6 +1,24 @@
 # Python
 An interpreted, high-level, general-purpose programming language.
 
+## Resources
+* guidelines
+
+ https://www.python.org/dev/peps/pep-0008/
+
+*tutorials
+
+ https://www.tutorialspoint.com/python/index.htm
+
+ https://docs.python.org/3/tutorial/
+
+ https://www.w3schools.com/python/default.asp
+ 
+ * python with mysql
+
+ https://www.w3schools.com/python/python_mysql_getstarted.asp
+
+
 ## Coding Standards
 
 ### Indentation
