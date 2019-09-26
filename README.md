@@ -1,5 +1,7 @@
 # Python
 An interpreted, high-level, general-purpose programming language.
+<img align="right" width="400" height="200" src="https://hackernoon.com/drafts/q141s3xfs.png">
+
 
 ## Resources
 * guidelines
